@@ -1,0 +1,9 @@
+/home/geronimo/Data/Workspace/Software/HBSS/Assignment_1/task-2/build/CMakeFiles/xorcrypt.dir
+/home/geronimo/Data/Workspace/Software/HBSS/Assignment_1/task-2/build/CMakeFiles/package.dir
+/home/geronimo/Data/Workspace/Software/HBSS/Assignment_1/task-2/build/CMakeFiles/package_source.dir
+/home/geronimo/Data/Workspace/Software/HBSS/Assignment_1/task-2/build/CMakeFiles/edit_cache.dir
+/home/geronimo/Data/Workspace/Software/HBSS/Assignment_1/task-2/build/CMakeFiles/rebuild_cache.dir
+/home/geronimo/Data/Workspace/Software/HBSS/Assignment_1/task-2/build/CMakeFiles/list_install_components.dir
+/home/geronimo/Data/Workspace/Software/HBSS/Assignment_1/task-2/build/CMakeFiles/install.dir
+/home/geronimo/Data/Workspace/Software/HBSS/Assignment_1/task-2/build/CMakeFiles/install/local.dir
+/home/geronimo/Data/Workspace/Software/HBSS/Assignment_1/task-2/build/CMakeFiles/install/strip.dir
