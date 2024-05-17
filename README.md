@@ -3,6 +3,7 @@
 ## HOW TO BUILD
 
 Create a build directory and move into it:
+
 `mkdir ./build && cd build`
 
 then
