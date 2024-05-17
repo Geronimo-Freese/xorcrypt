@@ -1,1 +1,0 @@
-/usr/bin/g++ CMakeFiles/xorcrypt.dir/src/main.cpp.o -o xorcrypt 
