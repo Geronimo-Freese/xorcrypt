@@ -1,5 +1,20 @@
 # Hardware-based systems security
 
+## HOW TO BUILD
+
+Create a build directory and move into it:
+`mkdir ./build && cd build`
+
+then
+
+`cmake ..`
+
+then
+
+`make`
+
+
+
 ## Assignment 1 - Task 2
 
 Encryption of data using the One Time Pad (OTP) is both efficient and easy to understand. Sure,
