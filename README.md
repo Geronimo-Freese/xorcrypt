@@ -44,4 +44,5 @@ Invocation should be like a filter program, as you already know from the exercis
 `(diff thesis.pdf thesis.dec.pdf) && echo VALID ||| echo INVALID`
 ### Questions:
 - What are the security properties of this cipher? That is: How strong is it?
+> ANSWER: Test blablablba
 - Would it be easy to crack? Explain why and perhaps how?
