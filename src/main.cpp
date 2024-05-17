@@ -21,19 +21,15 @@ void get_key(int argc, char *argv[]) {
 
 int main(int argc, char *argv[]) {
   get_key(argc, argv);
-  char c = 0;
-  char c_crypt = 0;
   int i = 0;
-
-  while(cin.peek() != EOF){
-    cin.get(c);
-    c_crypt = (c^key[i]);
+  char c;
+  char c_crypt;
+  do{
+    cin.read(&c, sizeof(c));
+    c_crypt = (c ^ (key[(i++)%key.length()]));
     cout << c_crypt;
-    i++;
-    i %= key.size();
-  }
-
-  cout << EOF;
+  } while(cin.peek()!= EOF);
 
   return 0;
 }
+
